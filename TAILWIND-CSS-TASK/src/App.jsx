@@ -1,11 +1,10 @@
 import "./App.css";
-import Practice_01 from "./PRACTICE/Practice_01";
-import { useState } from "react";
+import Practice_02 from "./PRACTICE/Practice_02";
 
 function App() {
   return (
     <div>
-      <Practice_01></Practice_01>
+      <Practice_02></Practice_02>
     </div>
   );
 }
