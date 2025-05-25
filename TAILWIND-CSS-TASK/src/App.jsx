@@ -1,10 +1,10 @@
 import "./App.css";
-import Card from "./PROJECTS/CARD_DESIGN/Card";
+import Form from "./PROJECTS/FORM_DESIGN/Form";
 
 function App() {
   return (
     <div>
-      <Card></Card>
+      <Form></Form>
     </div>
   );
 }
