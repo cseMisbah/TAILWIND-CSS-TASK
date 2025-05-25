@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.card {
+  background-image: url("../src/PROJECTS/CARD_DESIGN/images/bg.png");
+}
