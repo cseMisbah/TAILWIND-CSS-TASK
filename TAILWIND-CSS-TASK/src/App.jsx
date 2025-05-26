@@ -1,10 +1,10 @@
 import "./App.css";
-import Form from "./PROJECTS/FORM_DESIGN/Form";
+import Process from "./PROJECTS/3.1PROCESS-DESIGN/Process";
 
 function App() {
   return (
     <div>
-      <Form></Form>
+      <Process></Process>
     </div>
   );
 }
